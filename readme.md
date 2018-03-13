@@ -8,4 +8,19 @@
 
 2. запрос при помощи которого можно получить список всех сотрудников и количество их детей младше 7 лет
 
+Использован Laravel 5.5
+
+Что смотреть
+1. Модели 
+- Face
+- Kid
+2. Контроллеры
+    - FaceController
+    - KidController
+3. Views
+- index
+- layouts.app
+- form.creatingFace
+- form.creatingKid
+
 
